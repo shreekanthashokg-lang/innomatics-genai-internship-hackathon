@@ -94,7 +94,7 @@ print("Check the files section (left sidebar) to see it!")
 
 # ============================================
 # HACKATHON QUESTIONS ANALYSIS BY
-    SHREEKANTH A GUTTEDAR
+    SHREEKANTH GUTTEDAR
 # ============================================
 
 import pandas as pd
