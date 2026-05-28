@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """data_pipeline.py
-
-complete data 
+COMPLETE DATASET CODE 
 """
 
 import pandas as pd
