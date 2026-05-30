@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """data_pipeline.py
 COMPLETE DATASET 
-GenAI HACKATHON
+GEN AI HACKATHON
 
 """
 
